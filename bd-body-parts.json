@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "name": "Shoulders",
+        "image": "https://ibb.co/hcCkHp9"
+    },
+    {
+        "id":2,
+        "name": "Waist",
+        "image": "https://ibb.co/dkktwGy"
+    },
+    {
+        "id":2,
+        "name": "Back",
+        "image": "https://ibb.co/THFGL3C"
+    },
+    {
+        "id":3,
+        "name": "Upper arms",
+        "image": "https://ibb.co/hKmstDy"
+    },
+    {
+        "id":4,
+        "name": "Upper legs",
+        "image": "https://ibb.co/g3KQ2SK"
+    },
+    {
+        "id":5,
+        "name": "Cardio",
+        "image": "https://ibb.co/1nQLYyV"
+    },
+    {
+        "id":6,
+        "name": "Chest",
+        "image": "https://ibb.co/gb10zKF"
+    },
+    {
+        "id":7,
+        "name": "Neck",
+        "image": "https://ibb.co/HXGHDG9"
+    },
+    {
+        "id":8,
+        "name": "Lower arms",
+        "image": "https://ibb.co/SftMfTy"
+    },
+    {
+        "id":9,
+        "name": "Lower legs",
+        "image": "https://ibb.co/nwCsZmR"
+    }
+]

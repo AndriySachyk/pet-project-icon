@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "name": "Assisted",
+        "image": "https://ibb.co/XLYKcMB"
+    },
+    {
+        "id": 2,
+        "name": "Band",
+        "image": "https://ibb.co/gVY0fHF"
+    },
+    {
+        "id": 3,
+        "name": "Barbell",
+        "image": "https://ibb.co/zrm8YjL"
+    },
+    {
+        "id": 4,
+        "name": "Body weight",
+        "image": "https://ibb.co/znfks0k"
+    },
+    {
+        "id": 5,
+        "name": "Bosu ball",
+        "image": "https://ibb.co/Dr9kYS1"
+    },
+    {
+        "id": 6,
+        "name": "Cable",
+        "image": "https://ibb.co/ZXKQXP4"
+    },
+    {
+        "id": 7,
+        "name": "Dumbbell",
+        "image": "https://ibb.co/6ZLzbN3"
+    },
+    {
+        "id": 8,
+        "name": "Elliptical machine",
+        "image": "https://ibb.co/LzFRx23"
+    },
+    {
+        "id": 9,
+        "name": "Ez barbell",
+        "image": "https://ibb.co/q9Ty41p"
+    },
+    {
+        "id": 10,
+        "name": "Hammer",
+        "image": "https://ibb.co/h7xW7Tw"
+    },
+    {
+        "id": 11,
+        "name": "Kettlebell",
+        "image": "https://ibb.co/Y8DqhYx"
+    },
+    
+    {
+        "id": 12,
+        "name": "Leverage machine",
+        "image": "https://ibb.co/VLvbyJQ"
+    },
+    {
+        "id": 13,
+        "name": "Medicine ball",
+        "image": "https://ibb.co/LzY4TLk"
+    },
+    {
+        "id": 14,
+        "name": "Olympic barbell",
+        "image": "https://ibb.co/K2xVMWb"
+    },
+    {
+        "id": 15,
+        "name": "Resistance band",
+        "image": "https://ibb.co/9t3wr5Z"
+    },
+    {
+        "id": 16,
+        "name": "Roller",
+        "image": "https://ibb.co/PhSndwz"
+    },
+    {
+        "id": 17,
+        "name": "Rope",
+        "image": "https://ibb.co/0tDn4CD"
+    },
+    {
+        "id": 18,
+        "name": "Skierg machine",
+        "image": "https://ibb.co/Sfmcydx"
+    },
+    {
+        "id": 19,
+        "name": "Sled machine",
+        "image": "https://ibb.co/BcLrv4g"
+    },
+    {
+        "id": 20,
+        "name": "Smith machine",
+        "image": "https://ibb.co/2WsZh9w"
+    },
+    {
+        "id": 21,
+        "name": "Stability ball",
+        "image": "https://ibb.co/Pg45ztj"
+    },
+    {
+        "id": 22,
+        "name": "Stationary bike",
+        "image": "https://ibb.co/946SYGJ"
+    },
+    {
+        "id": 23,
+        "name": "Stepmill machine",
+        "image": "https://ibb.co/ThXdXWC"
+    },
+    {
+        "id": 24,
+        "name": "Tire",
+        "image": "https://ibb.co/Ycf4BWC"
+    },
+    {
+        "id": 25,
+        "name": "Trap bar",
+        "image": "https://ibb.co/dPRf5hX"
+    },
+    {
+        "id": 26,
+        "name": "Upper body ergometer",
+        "image": "https://ibb.co/CBtpvHg"
+    },
+    {
+        "id": 27,
+        "name": "Weighted",
+        "image": "https://ibb.co/25mG1mT"
+    },
+    {
+        "id": 28,
+        "name": "Wheel roller",
+        "image": "https://ibb.co/47xq0yF"
+    }
+]

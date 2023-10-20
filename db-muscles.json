@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Abductors",
+        "image": "https://ibb.co/hR4S0JL"
+    },
+    {
+        "id": 2,
+        "name": "Abs",
+        "image": "https://ibb.co/dPJmzcH"
+    },
+    {
+        "id": 3,
+        "name": "Adductors",
+        "image": "https://ibb.co/PzPd0bs"
+    },
+    {
+        "id": 4,
+        "name": "Biceps",
+        "image": "https://ibb.co/HPSKQRp"
+    },
+    {
+        "id": 5,
+        "name": "Calves",
+        "image": "https://ibb.co/YNzmLkY"
+    },
+    {
+        "id": 6,
+        "name": "Cardiovascular system",
+        "image": "https://ibb.co/X2TVbQJ"
+    },
+    {
+        "id": 7,
+        "name": "Delts",
+        "image": "https://ibb.co/6ZQHL7K"
+    },
+    {
+        "id": 8,
+        "name": "Forearms",
+        "image": "https://ibb.co/Zm7SG03"
+    },
+    {
+        "id": 9,
+        "name": "Glutes",
+        "image": "https://ibb.co/j3PHsGD"
+    },
+    {
+        "id": 10,
+        "name": "Hamstrings",
+        "image": "https://ibb.co/ynSKK6n"
+    },
+    {
+        "id": 11,
+        "name": "Lats",
+        "image": "https://ibb.co/bQGD7Gc"
+        
+    },
+    {
+        "id": 12,
+        "name": "Levator scapulae",
+        "image": "https://ibb.co/xYHZ6ZJ"
+    },
+    {
+        "id": 13,
+        "name": "Pectorals",
+        "image": "https://ibb.co/ftkjGq4"
+    },
+    {
+        "id": 14,
+        "name": "Quads",
+        "image": "https://ibb.co/j6sxdmJ"
+    },
+    {
+        "id": 15,
+        "name": "Serratus anterior",
+        "image": "https://ibb.co/SQn4Brp"
+    },
+    {
+        "id": 16,
+        "name": "Spine",
+        "image": "https://ibb.co/19CS980"
+    },
+    {
+        "id": 17,
+        "name": "Traps",
+        "image": "https://ibb.co/w4jbjbW"
+    },
+    {
+        "id": 18,
+        "name": "Triceps",
+        "image": "https://ibb.co/ZM1BrH8"
+    },
+    {
+        "id": 19,
+        "name": "Upper Back",
+        "image": "https://ibb.co/WxXRcXr"
+    }
+]
